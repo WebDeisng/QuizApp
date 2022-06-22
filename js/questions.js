@@ -2,10 +2,10 @@
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "Que es Html?",
+    answer: "Lenguaje para marcado de hipertext",
     options: [
-      "Hyper Text Preprocessor",
+      "Lenguaje para marcado de hipertext"
       "Hyper Text Markup Language",
       "Hyper Text Multiple Language",
       "Hyper Tool Multi Language"
